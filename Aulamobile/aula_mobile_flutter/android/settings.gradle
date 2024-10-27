@@ -15,7 +15,7 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
         teste
-        testeteeste
+        testeteesteteste
     }
 }
 
